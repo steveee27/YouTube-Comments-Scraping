@@ -5,7 +5,6 @@ This project involves scraping and analyzing YouTube comments from machine learn
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Workflow](#project-workflow)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [License](#license)
 
@@ -28,18 +27,11 @@ This project involves scraping and analyzing YouTube comments from machine learn
    - **Word2Vec (CBOW)**: Continuous Bag of Words for capturing semantic similarity between words.
 4. **Analysis and Visualization**:
    - **Word Frequency Analysis**: Identified the most common terms in the comments.
-   - **Word Cloud**: Visualized the frequent words to reveal popular themes.
-
-## Results
-
-| Text Representation | Analysis | Key Findings |
-|---------------------|----------|--------------|
-| **TF-IDF**          | Word Frequency Analysis | Identified key terms such as "machine learning", "data", "training", etc. |
-| **Word2Vec (CBOW)** | Word Cloud | Visualized terms related to learning and data processing, showing the popularity of specific topics in comments. |
+   - **Word Cloud**: Visualized frequent words to reveal popular themes.
 
 ## Conclusion
 
-This project demonstrates the process of collecting, processing, and analyzing text data from YouTube comments, showcasing various text representation techniques. The analysis provides insights into key terms and themes discussed in machine learning content on YouTube in Bahasa Indonesia.
+This project demonstrates the process of collecting, processing, and analyzing text data from YouTube comments, highlighting various text representation techniques. Through word frequency analysis and word cloud visualization, we uncovered common themes and key terms discussed in the comments, such as "machine learning," "data," and "training." These insights provide an overview of popular topics in Indonesian-language machine learning discussions on YouTube.
 
 ## License
 
