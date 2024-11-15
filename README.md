@@ -1,6 +1,6 @@
 # YouTube Comments Sentiment Analysis
 
-This project involves scraping and analyzing YouTube comments from machine learning-related videos in Bahasa Indonesia. The comments are processed and analyzed using various text representation techniques to extract key insights about popular terms and themes.
+This project involves scraping and analyzing YouTube comments from machine learning-related videos in Bahasa Indonesia. The YouTube API was used to collect comments data efficiently and systematically. The comments are then processed and analyzed using various text representation techniques to extract key insights about popular terms and themes.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
