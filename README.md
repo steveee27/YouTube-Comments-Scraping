@@ -11,7 +11,7 @@ This project involves scraping and analyzing YouTube comments from machine learn
 ## Project Overview
 
 - **Data Source**: YouTube comments on machine learning videos in Bahasa Indonesia.
-- **Text Representation Techniques**: TF-IDF and Word2Vec (CBOW).
+- **Text Representation Techniques**: TF-IDF, One-Hot Encoding, and CountVectorizer.
 - **Analysis Methods**: Word frequency analysis and word cloud visualization.
 
 ## Project Workflow
@@ -24,7 +24,8 @@ This project involves scraping and analyzing YouTube comments from machine learn
    - Lemmatization: Reduced words to their base forms.
 3. **Text Representation**:
    - **TF-IDF**: Term Frequency-Inverse Document Frequency to represent text as a numerical feature vector.
-   - **Word2Vec (CBOW)**: Continuous Bag of Words for capturing semantic similarity between words.
+   - **One-Hot Encoding**: Representing text where each unique word is a distinct column in a vector.
+   - **CountVectorizer**: Counts the frequency of words across the corpus.
 4. **Analysis and Visualization**:
    - **Word Frequency Analysis**: Identified the most common terms in the comments.
    - **Word Cloud**: Visualized frequent words to reveal popular themes.
